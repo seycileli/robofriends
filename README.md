@@ -1,8 +1,10 @@
 # robofriends
 
-# if you're going to clone
+# To users who wish to clone
 
-`git clone insertCodeUrlHere`
+First fork the repository. From there in your CLI/ terminal
+
+`git clone https://github.com/your-username-here/robofriends.git`
 
 - Once the app is opened in your IDE, use the below commands to start project
 
