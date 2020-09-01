@@ -1,5 +1,17 @@
 # robofriends
 
+# if you're going to clone
+
+`git clone insertCodeUrlHere`
+
+- Once the app is opened in your IDE, use the below commands to start project
+
+`npm install`
+
+`npm run`
+
+Feel free to play around with it as you wish afterwards.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
