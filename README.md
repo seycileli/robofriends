@@ -2,7 +2,9 @@
 
 # To users who wish to clone
 
-First fork the repository. From there in your CLI/ terminal
+First fork the repository. 
+
+From there in your CLI/ Terminal
 
 `git clone https://github.com/your-username-here/robofriends.git`
 
